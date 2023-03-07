@@ -9,15 +9,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-121.62162162162164 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-121.62162162162164 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -28,15 +28,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-116.75675675675677 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-116.75675675675677 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -47,15 +47,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-111.8918918918919 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-111.8918918918919 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -66,15 +66,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-107.027027027027 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-107.027027027027 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -85,15 +85,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-102.16216216216213 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-102.16216216216213 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -104,15 +104,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-97.29729729729729 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-97.29729729729729 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -123,15 +123,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-92.43243243243245 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-92.43243243243245 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -142,15 +142,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-87.56756756756755 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-87.56756756756755 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -161,15 +161,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-82.70270270270277 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-82.70270270270277 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -180,15 +180,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-77.83783783783781 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-77.83783783783781 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -199,15 +199,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-72.97297297297297 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-72.97297297297297 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -218,15 +218,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-68.10810810810813 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-68.10810810810813 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -237,15 +237,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-63.24324324324323 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-63.24324324324323 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -256,15 +256,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-58.378378378378386 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-58.378378378378386 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -275,15 +275,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-53.51351351351349 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-53.51351351351349 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -294,15 +294,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-48.648648648648646 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-48.648648648648646 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -313,15 +313,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-43.783783783783804 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-43.783783783783804 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -332,15 +332,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-38.918918918918905 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-38.918918918918905 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -351,15 +351,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-34.05405405405406 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-34.05405405405406 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -370,15 +370,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-29.189189189189165 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-29.189189189189165 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -389,15 +389,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-24.324324324324266 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-24.324324324324266 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -408,15 +408,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-19.45945945945948 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-19.45945945945948 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -427,15 +427,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-14.594594594594582 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-14.594594594594582 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -446,15 +446,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-9.729729729729797 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-9.729729729729797 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -465,15 +465,15 @@
             A 100.0,100.0,0.08607103160519981,0,0,599.907411510223,495.697776699547
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.6944444444444444s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-4.864864864864899 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.6944444444444444s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-4.864864864864899 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -484,15 +484,15 @@
             A 150.0,150.0,0.08607103160519981,0,0,649.8611172653345,493.54666504932044
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.9722222222222223s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-199.45945945945945 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.9722222222222223s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-199.45945945945945 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -503,15 +503,15 @@
             A 150.0,150.0,0.08607103160519981,0,0,649.8611172653345,493.54666504932044
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.9722222222222223s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-194.59459459459458 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.9722222222222223s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-194.59459459459458 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -522,15 +522,15 @@
             A 150.0,150.0,0.08607103160519981,0,0,649.8611172653345,493.54666504932044
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.9722222222222223s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-189.72972972972974 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.9722222222222223s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-189.72972972972974 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -541,15 +541,15 @@
             A 150.0,150.0,0.08607103160519981,0,0,649.8611172653345,493.54666504932044
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.9722222222222223s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-184.8648648648649 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.9722222222222223s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-184.8648648648649 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -560,15 +560,15 @@
             A 150.0,150.0,0.08607103160519981,0,0,649.8611172653345,493.54666504932044
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.9722222222222223s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-180.0 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.9722222222222223s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-180.0 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -579,15 +579,15 @@
             A 150.0,150.0,0.08607103160519981,0,0,649.8611172653345,493.54666504932044
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.9722222222222223s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-175.13513513513513 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.9722222222222223s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-175.13513513513513 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -598,15 +598,15 @@
             A 150.0,150.0,0.08607103160519981,0,0,649.8611172653345,493.54666504932044
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.9722222222222223s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-170.2702702702703 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.9722222222222223s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-170.2702702702703 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -617,15 +617,15 @@
             A 150.0,150.0,0.08607103160519981,0,0,649.8611172653345,493.54666504932044
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.9722222222222223s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-165.4054054054054 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.9722222222222223s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-165.4054054054054 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -636,15 +636,15 @@
             A 150.0,150.0,0.08607103160519981,0,0,649.8611172653345,493.54666504932044
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.9722222222222223s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-160.54054054054055 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.9722222222222223s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-160.54054054054055 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -655,15 +655,15 @@
             A 150.0,150.0,0.08607103160519981,0,0,649.8611172653345,493.54666504932044
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.9722222222222223s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-155.67567567567565 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.9722222222222223s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-155.67567567567565 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -674,15 +674,15 @@
             A 150.0,150.0,0.08607103160519981,0,0,649.8611172653345,493.54666504932044
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.9722222222222223s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-150.8108108108108 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.9722222222222223s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-150.8108108108108 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -693,15 +693,15 @@
             A 150.0,150.0,0.08607103160519981,0,0,649.8611172653345,493.54666504932044
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.9722222222222223s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-145.945945945946 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.9722222222222223s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-145.945945945946 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -712,15 +712,15 @@
             A 150.0,150.0,0.08607103160519981,0,0,649.8611172653345,493.54666504932044
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.9722222222222223s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-141.08108108108107 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.9722222222222223s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-141.08108108108107 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -731,15 +731,15 @@
             A 150.0,150.0,0.08607103160519981,0,0,649.8611172653345,493.54666504932044
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.9722222222222223s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-136.2162162162162 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.9722222222222223s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-136.2162162162162 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -750,15 +750,15 @@
             A 150.0,150.0,0.08607103160519981,0,0,649.8611172653345,493.54666504932044
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.9722222222222223s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-131.35135135135135 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.9722222222222223s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-131.35135135135135 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -769,15 +769,15 @@
             A 150.0,150.0,0.08607103160519981,0,0,649.8611172653345,493.54666504932044
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.9722222222222223s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-126.48648648648646 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.9722222222222223s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-126.48648648648646 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -788,15 +788,15 @@
             A 150.0,150.0,0.08607103160519981,0,0,649.8611172653345,493.54666504932044
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.9722222222222223s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-19.45945945945948 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.9722222222222223s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-19.45945945945948 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -807,15 +807,15 @@
             A 150.0,150.0,0.08607103160519981,0,0,649.8611172653345,493.54666504932044
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.9722222222222223s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-14.594594594594582 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.9722222222222223s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-14.594594594594582 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -826,15 +826,15 @@
             A 150.0,150.0,0.08607103160519981,0,0,649.8611172653345,493.54666504932044
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.9722222222222223s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-9.729729729729797 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.9722222222222223s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-9.729729729729797 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -845,15 +845,15 @@
             A 150.0,150.0,0.08607103160519981,0,0,649.8611172653345,493.54666504932044
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="1.9722222222222223s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-4.864864864864899 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="1.9722222222222223s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-4.864864864864899 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -864,15 +864,15 @@
             A 200.0,200.0,0.08607103160519981,0,0,699.814823020446,491.3955533990939
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.25s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-252.972972972973 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.25s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-252.972972972973 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -883,15 +883,15 @@
             A 200.0,200.0,0.08607103160519981,0,0,699.814823020446,491.3955533990939
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.25s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-248.1081081081081 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.25s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-248.1081081081081 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -902,15 +902,15 @@
             A 200.0,200.0,0.08607103160519981,0,0,699.814823020446,491.3955533990939
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.25s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-243.24324324324323 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.25s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-243.24324324324323 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -921,15 +921,15 @@
             A 200.0,200.0,0.08607103160519981,0,0,699.814823020446,491.3955533990939
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.25s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-238.3783783783784 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.25s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-238.3783783783784 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -940,15 +940,15 @@
             A 200.0,200.0,0.08607103160519981,0,0,699.814823020446,491.3955533990939
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.25s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-233.5135135135135 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.25s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-233.5135135135135 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -959,15 +959,15 @@
             A 200.0,200.0,0.08607103160519981,0,0,699.814823020446,491.3955533990939
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.25s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-228.64864864864865 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.25s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-228.64864864864865 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -978,15 +978,15 @@
             A 200.0,200.0,0.08607103160519981,0,0,699.814823020446,491.3955533990939
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.25s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-223.78378378378378 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.25s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-223.78378378378378 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -997,15 +997,15 @@
             A 200.0,200.0,0.08607103160519981,0,0,699.814823020446,491.3955533990939
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.25s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-218.9189189189189 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.25s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-218.9189189189189 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1016,15 +1016,15 @@
             A 200.0,200.0,0.08607103160519981,0,0,699.814823020446,491.3955533990939
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.25s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-214.05405405405406 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.25s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-214.05405405405406 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1035,15 +1035,15 @@
             A 200.0,200.0,0.08607103160519981,0,0,699.814823020446,491.3955533990939
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.25s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-209.1891891891892 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.25s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-209.1891891891892 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1054,15 +1054,15 @@
             A 200.0,200.0,0.08607103160519981,0,0,699.814823020446,491.3955533990939
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.25s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-204.32432432432432 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.25s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-204.32432432432432 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1073,15 +1073,15 @@
             A 200.0,200.0,0.08607103160519981,0,0,699.814823020446,491.3955533990939
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.25s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-136.2162162162162 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.25s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-136.2162162162162 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1092,15 +1092,15 @@
             A 200.0,200.0,0.08607103160519981,0,0,699.814823020446,491.3955533990939
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.25s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-131.35135135135135 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.25s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-131.35135135135135 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1111,15 +1111,15 @@
             A 200.0,200.0,0.08607103160519981,0,0,699.814823020446,491.3955533990939
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.25s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-126.48648648648646 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.25s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-126.48648648648646 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1130,15 +1130,15 @@
             A 200.0,200.0,0.08607103160519981,0,0,699.814823020446,491.3955533990939
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.25s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-19.45945945945948 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.25s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-19.45945945945948 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1149,15 +1149,15 @@
             A 200.0,200.0,0.08607103160519981,0,0,699.814823020446,491.3955533990939
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.25s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-14.594594594594582 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.25s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-14.594594594594582 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1168,15 +1168,15 @@
             A 200.0,200.0,0.08607103160519981,0,0,699.814823020446,491.3955533990939
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.25s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-9.729729729729797 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.25s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-9.729729729729797 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1187,15 +1187,15 @@
             A 200.0,200.0,0.08607103160519981,0,0,699.814823020446,491.3955533990939
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.25s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-4.864864864864899 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.25s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-4.864864864864899 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1206,15 +1206,15 @@
             A 250.0,250.0,0.08607103160519981,0,0,749.7685287755575,489.24444174886736
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.5277777777777777s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-291.8918918918919 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.5277777777777777s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-291.8918918918919 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1225,15 +1225,15 @@
             A 250.0,250.0,0.08607103160519981,0,0,749.7685287755575,489.24444174886736
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.5277777777777777s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-287.02702702702703 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.5277777777777777s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-287.02702702702703 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1244,15 +1244,15 @@
             A 250.0,250.0,0.08607103160519981,0,0,749.7685287755575,489.24444174886736
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.5277777777777777s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-282.1621621621622 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.5277777777777777s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-282.1621621621622 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1263,15 +1263,15 @@
             A 250.0,250.0,0.08607103160519981,0,0,749.7685287755575,489.24444174886736
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.5277777777777777s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-277.2972972972973 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.5277777777777777s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-277.2972972972973 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1282,15 +1282,15 @@
             A 250.0,250.0,0.08607103160519981,0,0,749.7685287755575,489.24444174886736
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.5277777777777777s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-272.43243243243245 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.5277777777777777s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-272.43243243243245 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1301,15 +1301,15 @@
             A 250.0,250.0,0.08607103160519981,0,0,749.7685287755575,489.24444174886736
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.5277777777777777s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-267.56756756756755 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.5277777777777777s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-267.56756756756755 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1320,15 +1320,15 @@
             A 250.0,250.0,0.08607103160519981,0,0,749.7685287755575,489.24444174886736
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.5277777777777777s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-262.7027027027027 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.5277777777777777s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-262.7027027027027 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1339,15 +1339,15 @@
             A 250.0,250.0,0.08607103160519981,0,0,749.7685287755575,489.24444174886736
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.5277777777777777s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-257.8378378378378 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.5277777777777777s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-257.8378378378378 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1358,15 +1358,15 @@
             A 250.0,250.0,0.08607103160519981,0,0,749.7685287755575,489.24444174886736
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.5277777777777777s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-209.1891891891892 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.5277777777777777s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-209.1891891891892 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1377,15 +1377,15 @@
             A 250.0,250.0,0.08607103160519981,0,0,749.7685287755575,489.24444174886736
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.5277777777777777s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-204.32432432432432 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.5277777777777777s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-204.32432432432432 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1396,15 +1396,15 @@
             A 250.0,250.0,0.08607103160519981,0,0,749.7685287755575,489.24444174886736
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.5277777777777777s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-136.2162162162162 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.5277777777777777s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-136.2162162162162 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1415,15 +1415,15 @@
             A 250.0,250.0,0.08607103160519981,0,0,749.7685287755575,489.24444174886736
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.5277777777777777s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-131.35135135135135 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.5277777777777777s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-131.35135135135135 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1434,15 +1434,15 @@
             A 250.0,250.0,0.08607103160519981,0,0,749.7685287755575,489.24444174886736
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.5277777777777777s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-126.48648648648646 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.5277777777777777s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-126.48648648648646 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1453,15 +1453,15 @@
             A 250.0,250.0,0.08607103160519981,0,0,749.7685287755575,489.24444174886736
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.5277777777777777s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-53.51351351351349 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.5277777777777777s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-53.51351351351349 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1472,15 +1472,15 @@
             A 250.0,250.0,0.08607103160519981,0,0,749.7685287755575,489.24444174886736
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.5277777777777777s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-48.648648648648646 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.5277777777777777s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-48.648648648648646 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1491,15 +1491,15 @@
             A 250.0,250.0,0.08607103160519981,0,0,749.7685287755575,489.24444174886736
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.5277777777777777s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-43.783783783783804 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.5277777777777777s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-43.783783783783804 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1510,15 +1510,15 @@
             A 250.0,250.0,0.08607103160519981,0,0,749.7685287755575,489.24444174886736
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.5277777777777777s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-38.918918918918905 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.5277777777777777s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-38.918918918918905 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1529,15 +1529,15 @@
             A 250.0,250.0,0.08607103160519981,0,0,749.7685287755575,489.24444174886736
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.5277777777777777s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-34.05405405405406 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.5277777777777777s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-34.05405405405406 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1548,15 +1548,15 @@
             A 250.0,250.0,0.08607103160519981,0,0,749.7685287755575,489.24444174886736
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.5277777777777777s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-29.189189189189165 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.5277777777777777s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-29.189189189189165 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1567,15 +1567,15 @@
             A 250.0,250.0,0.08607103160519981,0,0,749.7685287755575,489.24444174886736
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.5277777777777777s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-24.324324324324266 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.5277777777777777s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-24.324324324324266 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1586,15 +1586,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-316.21621621621625 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-316.21621621621625 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1605,15 +1605,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-311.35135135135135 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-311.35135135135135 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1624,15 +1624,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-306.4864864864865 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-306.4864864864865 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1643,15 +1643,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-301.6216216216216 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-301.6216216216216 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1662,15 +1662,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-296.7567567567568 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-296.7567567567568 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1681,15 +1681,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-262.7027027027027 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-262.7027027027027 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1700,15 +1700,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-257.8378378378378 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-257.8378378378378 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1719,15 +1719,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-209.1891891891892 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-209.1891891891892 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1738,15 +1738,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-204.32432432432432 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-204.32432432432432 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1757,15 +1757,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-155.67567567567565 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-155.67567567567565 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1776,15 +1776,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-150.8108108108108 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-150.8108108108108 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1795,15 +1795,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-145.945945945946 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-145.945945945946 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1814,15 +1814,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-141.08108108108107 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-141.08108108108107 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1833,15 +1833,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-121.62162162162164 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-121.62162162162164 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1852,15 +1852,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-116.75675675675677 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-116.75675675675677 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1871,15 +1871,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-111.8918918918919 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-111.8918918918919 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1890,15 +1890,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-107.027027027027 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-107.027027027027 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1909,15 +1909,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-102.16216216216213 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-102.16216216216213 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1928,15 +1928,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-53.51351351351349 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-53.51351351351349 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1947,15 +1947,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-48.648648648648646 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-48.648648648648646 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1966,15 +1966,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-43.783783783783804 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-43.783783783783804 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -1985,15 +1985,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-38.918918918918905 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-38.918918918918905 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2004,15 +2004,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-19.45945945945948 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-19.45945945945948 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2023,15 +2023,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-14.594594594594582 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-14.594594594594582 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2042,15 +2042,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-9.729729729729797 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-9.729729729729797 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2061,15 +2061,15 @@
             A 300.0,300.0,0.08607103160519981,0,0,799.722234530669,487.0933300986409
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="2.8055555555555554s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-4.864864864864899 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="2.8055555555555554s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-4.864864864864899 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2080,15 +2080,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-330.81081081081084 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-330.81081081081084 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2099,15 +2099,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-325.94594594594594 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-325.94594594594594 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2118,15 +2118,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-321.0810810810811 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-321.0810810810811 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2137,15 +2137,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-296.7567567567568 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-296.7567567567568 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2156,15 +2156,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-262.7027027027027 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-262.7027027027027 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2175,15 +2175,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-257.8378378378378 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-257.8378378378378 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2194,15 +2194,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-223.78378378378378 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-223.78378378378378 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2213,15 +2213,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-218.9189189189189 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-218.9189189189189 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2232,15 +2232,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-214.05405405405406 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-214.05405405405406 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2251,15 +2251,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-199.45945945945945 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-199.45945945945945 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2270,15 +2270,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-194.59459459459458 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-194.59459459459458 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2289,15 +2289,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-189.72972972972974 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-189.72972972972974 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2308,15 +2308,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-155.67567567567565 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-155.67567567567565 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2327,15 +2327,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-150.8108108108108 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-150.8108108108108 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2346,15 +2346,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-136.2162162162162 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-136.2162162162162 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2365,15 +2365,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-131.35135135135135 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-131.35135135135135 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2384,15 +2384,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-126.48648648648646 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-126.48648648648646 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2403,15 +2403,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-102.16216216216213 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-102.16216216216213 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2422,15 +2422,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-68.10810810810813 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-68.10810810810813 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2441,15 +2441,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-63.24324324324323 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-63.24324324324323 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2460,15 +2460,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-58.378378378378386 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-58.378378378378386 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2479,15 +2479,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-34.05405405405406 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-34.05405405405406 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2498,15 +2498,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-29.189189189189165 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-29.189189189189165 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2517,15 +2517,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-24.324324324324266 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-24.324324324324266 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2536,15 +2536,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-9.729729729729797 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-9.729729729729797 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2555,15 +2555,15 @@
             A 350.0,350.0,0.08607103160519981,0,0,849.6759402857805,484.94221844841434
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.0833333333333335s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-4.864864864864899 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.0833333333333335s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-4.864864864864899 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2574,15 +2574,15 @@
             A 400.0,400.0,0.08607103160519981,0,0,899.629646040892,482.7911067981878
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.361111111111111s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-340.5405405405405 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.361111111111111s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-340.5405405405405 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2593,15 +2593,15 @@
             A 400.0,400.0,0.08607103160519981,0,0,899.629646040892,482.7911067981878
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.361111111111111s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-335.6756756756757 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.361111111111111s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-335.6756756756757 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2612,15 +2612,15 @@
             A 400.0,400.0,0.08607103160519981,0,0,899.629646040892,482.7911067981878
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.361111111111111s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-321.0810810810811 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.361111111111111s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-321.0810810810811 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2631,15 +2631,15 @@
             A 400.0,400.0,0.08607103160519981,0,0,899.629646040892,482.7911067981878
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.361111111111111s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-296.7567567567568 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.361111111111111s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-296.7567567567568 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2650,15 +2650,15 @@
             A 400.0,400.0,0.08607103160519981,0,0,899.629646040892,482.7911067981878
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.361111111111111s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-272.43243243243245 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.361111111111111s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-272.43243243243245 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2669,15 +2669,15 @@
             A 400.0,400.0,0.08607103160519981,0,0,899.629646040892,482.7911067981878
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.361111111111111s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-267.56756756756755 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.361111111111111s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-267.56756756756755 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2688,15 +2688,15 @@
             A 400.0,400.0,0.08607103160519981,0,0,899.629646040892,482.7911067981878
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.361111111111111s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-252.972972972973 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.361111111111111s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-252.972972972973 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2707,15 +2707,15 @@
             A 400.0,400.0,0.08607103160519981,0,0,899.629646040892,482.7911067981878
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.361111111111111s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-248.1081081081081 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.361111111111111s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-248.1081081081081 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2726,15 +2726,15 @@
             A 400.0,400.0,0.08607103160519981,0,0,899.629646040892,482.7911067981878
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.361111111111111s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-223.78378378378378 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.361111111111111s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-223.78378378378378 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2745,15 +2745,15 @@
             A 400.0,400.0,0.08607103160519981,0,0,899.629646040892,482.7911067981878
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.361111111111111s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-209.1891891891892 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.361111111111111s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-209.1891891891892 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2764,15 +2764,15 @@
             A 400.0,400.0,0.08607103160519981,0,0,899.629646040892,482.7911067981878
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.361111111111111s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-204.32432432432432 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.361111111111111s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-204.32432432432432 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2783,15 +2783,15 @@
             A 400.0,400.0,0.08607103160519981,0,0,899.629646040892,482.7911067981878
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.361111111111111s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-189.72972972972974 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.361111111111111s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-189.72972972972974 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2802,15 +2802,15 @@
             A 400.0,400.0,0.08607103160519981,0,0,899.629646040892,482.7911067981878
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.361111111111111s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-165.4054054054054 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.361111111111111s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-165.4054054054054 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2821,15 +2821,15 @@
             A 400.0,400.0,0.08607103160519981,0,0,899.629646040892,482.7911067981878
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.361111111111111s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-160.54054054054055 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.361111111111111s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-160.54054054054055 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2840,15 +2840,15 @@
             A 400.0,400.0,0.08607103160519981,0,0,899.629646040892,482.7911067981878
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.361111111111111s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-145.945945945946 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.361111111111111s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-145.945945945946 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2859,15 +2859,15 @@
             A 400.0,400.0,0.08607103160519981,0,0,899.629646040892,482.7911067981878
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.361111111111111s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-141.08108108108107 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.361111111111111s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-141.08108108108107 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2878,15 +2878,15 @@
             A 400.0,400.0,0.08607103160519981,0,0,899.629646040892,482.7911067981878
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.361111111111111s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-126.48648648648646 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.361111111111111s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-126.48648648648646 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2897,15 +2897,15 @@
             A 400.0,400.0,0.08607103160519981,0,0,899.629646040892,482.7911067981878
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.361111111111111s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-102.16216216216213 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.361111111111111s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-102.16216216216213 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2916,15 +2916,15 @@
             A 400.0,400.0,0.08607103160519981,0,0,899.629646040892,482.7911067981878
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.361111111111111s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-77.83783783783781 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.361111111111111s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-77.83783783783781 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2935,15 +2935,15 @@
             A 400.0,400.0,0.08607103160519981,0,0,899.629646040892,482.7911067981878
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.361111111111111s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-72.97297297297297 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.361111111111111s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-72.97297297297297 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2954,15 +2954,15 @@
             A 400.0,400.0,0.08607103160519981,0,0,899.629646040892,482.7911067981878
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.361111111111111s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-58.378378378378386 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.361111111111111s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-58.378378378378386 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2973,15 +2973,15 @@
             A 400.0,400.0,0.08607103160519981,0,0,899.629646040892,482.7911067981878
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.361111111111111s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-34.05405405405406 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.361111111111111s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-34.05405405405406 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -2992,15 +2992,15 @@
             A 400.0,400.0,0.08607103160519981,0,0,899.629646040892,482.7911067981878
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.361111111111111s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-19.45945945945948 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.361111111111111s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-19.45945945945948 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3011,15 +3011,15 @@
             A 400.0,400.0,0.08607103160519981,0,0,899.629646040892,482.7911067981878
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.361111111111111s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-14.594594594594582 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.361111111111111s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-14.594594594594582 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3030,15 +3030,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-350.27027027027026 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-350.27027027027026 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3049,15 +3049,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-345.4054054054054 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-345.4054054054054 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3068,15 +3068,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-335.6756756756757 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-335.6756756756757 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3087,15 +3087,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-321.0810810810811 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-321.0810810810811 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3106,15 +3106,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-306.4864864864865 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-306.4864864864865 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3125,15 +3125,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-301.6216216216216 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-301.6216216216216 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3144,15 +3144,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-291.8918918918919 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-291.8918918918919 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3163,15 +3163,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-287.02702702702703 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-287.02702702702703 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3182,15 +3182,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-272.43243243243245 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-272.43243243243245 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3201,15 +3201,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-262.7027027027027 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-262.7027027027027 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3220,15 +3220,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-257.8378378378378 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-257.8378378378378 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3239,15 +3239,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-248.1081081081081 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-248.1081081081081 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3258,15 +3258,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-233.5135135135135 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-233.5135135135135 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3277,15 +3277,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-228.64864864864865 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-228.64864864864865 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3296,15 +3296,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-218.9189189189189 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-218.9189189189189 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3315,15 +3315,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-214.05405405405406 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-214.05405405405406 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3334,15 +3334,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-204.32432432432432 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-204.32432432432432 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3353,15 +3353,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-189.72972972972974 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-189.72972972972974 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3372,15 +3372,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-175.13513513513513 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-175.13513513513513 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3391,15 +3391,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-170.2702702702703 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-170.2702702702703 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3410,15 +3410,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-160.54054054054055 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-160.54054054054055 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3429,15 +3429,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-145.945945945946 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-145.945945945946 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3448,15 +3448,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-136.2162162162162 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-136.2162162162162 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3467,15 +3467,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-131.35135135135135 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-131.35135135135135 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3486,15 +3486,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-121.62162162162164 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-121.62162162162164 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3505,15 +3505,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-116.75675675675677 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-116.75675675675677 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3524,15 +3524,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-102.16216216216213 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-102.16216216216213 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3543,15 +3543,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-87.56756756756755 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-87.56756756756755 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3562,15 +3562,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-82.70270270270277 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-82.70270270270277 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3581,15 +3581,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-72.97297297297297 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-72.97297297297297 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3600,15 +3600,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-58.378378378378386 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-58.378378378378386 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3619,15 +3619,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-43.783783783783804 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-43.783783783783804 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3638,15 +3638,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-38.918918918918905 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-38.918918918918905 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3657,15 +3657,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-29.189189189189165 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-29.189189189189165 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3676,15 +3676,15 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-24.324324324324266 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-24.324324324324266 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 <path fill="black" stroke="black"
             d="
@@ -3695,14 +3695,14 @@
             A 450.0,450.0,0.08607103160519981,0,0,949.5833517960035,480.63999514796126
             z">
 <animateTransform
-            attributeName="transform"
-            attributeType="XML"
-            begin="0s"
-            dur="3.638888888888889s"
-            type="rotate" 
-            from="0 500.0 500.0"
-            to="-14.594594594594582 500.0 500.0"
-            fill="freeze"
-            />
+                attributeName="transform"
+                attributeType="XML"
+                begin="0s"
+                dur="3.638888888888889s"
+                type="rotate" 
+                from="0 500.0 500.0"
+                to="-14.594594594594582 500.0 500.0"
+                fill="freeze"
+                />
 </path>
 </svg>

@@ -4,17 +4,18 @@ import sys
 from math import sin,cos,pi
 import kolakoski as klk
 
-def print_svg_sector(f,x,y,color,r,th,dr,dth):
+def print_svg_sector(f,x,y,color,r,th,dr,dth,anim):
     # set initial angle to 0
     final_th = th*180/pi - 360
-    th = 0
+    if anim:
+        th = 0
 
     maxr = r+dr/2
     minr = r-dr/2
     
     maxth = th+dth/2
     minth = th-dth/2
-    
+
     # 4 corners of sector centered at r,th
     # with widths dr,dth
     x1 = x + minr*cos(minth)
@@ -46,27 +47,34 @@ def print_svg_sector(f,x,y,color,r,th,dr,dth):
             minr,minr,dth,0,0,x1,y1,
             ),file=f)
 
-    # spin from initial angle to final angle (slower at the edge)
-    print("""<animateTransform
-            attributeName=\"transform\"
-            attributeType=\"XML\"
-            begin=\"0s\"
-            dur=\"{}s\"
-            type=\"rotate\" 
-            from=\"0 {} {}\"
-            to=\"{} {} {}\"
-            fill=\"freeze\"
-            />""".format(1+r/180,x,y,final_th,x,y),file=f)
+    if anim:
+        # spin from initial angle to final angle (slower at the edge)
+        print("""<animateTransform
+                attributeName=\"transform\"
+                attributeType=\"XML\"
+                begin=\"0s\"
+                dur=\"{}s\"
+                type=\"rotate\" 
+                from=\"0 {} {}\"
+                to=\"{} {} {}\"
+                fill=\"freeze\"
+                />""".format(1+r/180,x,y,final_th,x,y),file=f)
 
     print("</path>",file=f)
 
-def main(depth):
+def main(depth, anim):
     print("Generating grid")
     grid = klk.gen_grid(klk.gen_stack(depth))
     # klk.disp_grid(grid)
 
+    filename = ""
+    if anim:
+        filename = "./output/anim/kolakoski{}.svg".format(depth)
+    else:
+        filename = "./output/no_anim/kolakoski{}.svg".format(depth)
+
     print("Generating SVG")
-    with open("./output/kolakoski{}.svg".format(depth),"w") as f:
+    with open(filename,"w") as f:
         W = 1000
         H = 1000
         R = H/2
@@ -84,12 +92,13 @@ def main(depth):
             for j in range(len(grid[i])):
                 th = 2*pi*j/len(grid[i])
                 if grid[i][j] == 1:
-                    print_svg_sector(f,W/2,H/2,"black",r,th,dr,dth)
+                    print_svg_sector(f,W/2,H/2,"black",r,th,dr,dth,anim)
 
         print("</svg>",file=f)
 
 if __name__ == "__main__":
     depth = 10 
+    anim = 0
     if len(sys.argv) > 1:
         try:
             depth = int(sys.argv[1])
@@ -98,5 +107,13 @@ if __name__ == "__main__":
             print("Depth needs to be a positive integer", file=sys.stderr)
             exit(-1)
 
-    main(depth)
+    if len(sys.argv) > 2:
+        try:
+            anim = int(sys.argv[2])
+            assert(anim == 0 or anim == 1)
+        except:
+            print("set animation flag to either 0 or 1", file=sys.stderr)
+            exit(-1)
+
+    main(depth,anim)
 
